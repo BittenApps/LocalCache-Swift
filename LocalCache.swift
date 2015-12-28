@@ -1,7 +1,7 @@
 //
 //  LocalCache.swift
 //
-//  Copyright (c) 2015, Eduardo Almeida
+//  Copyright (c) 2015, Bitten Apps
 //  All rights reserved.
 //
 //  Redistribution and use in source and binary forms, 
